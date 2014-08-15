@@ -1,0 +1,81 @@
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.exe.config
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys.mdf
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_log.ldf
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.exe
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.pdb
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.xml
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\ResolveAssemblyReference.cache
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.GradesForm.resources
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.LoginForm.resources
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.MainForm.resources
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.Resources.resources
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.RegistrationsForm.resources
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.StudentsForm.resources
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.vbproj.GenerateResource.Cache
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.exe
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.xml
+D:\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.pdb
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.exe.config
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.exe
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.xml
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.pdb
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys.mdf
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_log.ldf
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.exe
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.pdb
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.xml
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\ResolveAssemblyReference.cache
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.GradesForm.resources
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.LoginForm.resources
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.MainForm.resources
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.Resources.resources
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.RegistrationsForm.resources
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.StudentsForm.resources
+D:\Jeriboy\School_College\TESDA VB.NET\Final Projects\StudInfoSys_SQLServer\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.vbproj.GenerateResource.Cache
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.exe.config
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys.mdf
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.exe
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.pdb
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.xml
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.GradesForm.resources
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.MainForm.resources
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.Resources.resources
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.RegistrationsForm.resources
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.StudentsForm.resources
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.vbproj.GenerateResource.Cache
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.exe
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.xml
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.pdb
+C:\vb and excel\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_log.ldf
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.exe.config
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.exe
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.xml
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.pdb
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys.mdf
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_log.ldf
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.exe
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.pdb
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.xml
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.GradesForm.resources
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.MainForm.resources
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.Resources.resources
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.RegistrationsForm.resources
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.StudentsForm.resources
+C:\Users\1008087\Desktop\New folder\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.vbproj.GenerateResource.Cache
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.exe.config
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.exe
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.xml
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.pdb
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys.mdf
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_log.ldf
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.exe
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.pdb
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\bin\Debug\StudInfoSys_SQLServer.xml
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.GradesForm.resources
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.MainForm.resources
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.Resources.resources
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.RegistrationsForm.resources
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.StudentsForm.resources
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.vbproj.GenerateResource.Cache
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.exe.manifest
+C:\Users\1008087\Desktop\New folder\auto\StudInfoSys_WinFormsApplication - VB - VS2010\StudInfoSys_SQLServer\obj\Debug\StudInfoSys_SQLServer.application
